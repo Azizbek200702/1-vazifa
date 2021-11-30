@@ -16,8 +16,10 @@ body{
     padding: 10px;
     margin: 0 auto;
     margin-top: 90px;
+    border-radius: 10px;
 }
 
 .card img{
+    border-radius: 5px;
     width: 100%;
 }
